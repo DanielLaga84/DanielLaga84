@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DanielLaga84 Daniel ;) 
+- 👋 Hi, I’m @DanielLaga84 Daniel
 - 👀 I’m interested in climbing, body building, astrophysics and programming. I love to read books.   
-- 🌱 I’m currently learning Kotlin language. 
+- 🌱 Tibco BW / BWCE, rust Integration Developer. EDI specialist with service management in two small projects.
 - 📫 How to reach me - Just pm me daniellaga84@gmail.com. 
 
 <!---
